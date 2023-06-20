@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto-Apeperia  </h1>
+<h1 align="center"> 📱 Projeto-Apeperia 📱  </h1>
 
 Projeto desenvolvido para acompanhar as aulas da Alura + ONE (Oracle Next Education) sobre mobile-first e layouts responsivos.
 
